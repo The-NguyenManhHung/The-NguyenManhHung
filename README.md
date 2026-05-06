@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mạnh-hưng-nguyễn-732403187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mạnh-hưng-nguyễn-732403187" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mạnh-hưng-nguyễn-732403187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mạnh-hưng-nguyễn-732403187" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools that I have learned and used:</h3>
