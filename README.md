@@ -12,7 +12,7 @@
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ViNXNseGdka2ZhMTJxbDI3ZXd3a2xoaDZhbjgxOGdpejZpbnU1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="33%" alt="work">
 
 <h3 align="left">Languages that I can speak:</h3>
-<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="vn" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg" alt="en" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="jp" width="40" height="40"/> </p>
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="vn"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg" alt="en"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="jp"/> </p>
 
 
 
